@@ -1,2 +1,3 @@
 # TicTacToe-Game
-This game will find you to spend good time on it .
+This is a python based game  
+It will find you to spend good time on it .
